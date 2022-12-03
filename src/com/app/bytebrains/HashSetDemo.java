@@ -7,7 +7,6 @@ import java.util.Set;
 public class HashSetDemo {
 	
 	public static void main(String[] args) {
-		
 		Set<String> set = new HashSet<>();
 		set.add("Java");
 		set.add("Java");
